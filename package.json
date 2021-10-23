@@ -1,7 +1,6 @@
 {
-  "name": "node-mongo-crud-server",
+  "name": "mongo-crud-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -14,6 +13,16 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mongodb": "^4.1.3"
-  }
+    "mongodb": "^4.1.3",
+    "nodemon": "^2.0.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AL-AMIN-HUB/node-mongo-crud-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AL-AMIN-HUB/node-mongo-crud-server/issues"
+  },
+  "homepage": "https://github.com/AL-AMIN-HUB/node-mongo-crud-server#readme",
+  "description": ""
 }
